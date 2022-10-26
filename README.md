@@ -6,6 +6,6 @@ Fala Galera! Nesse projeto eu fiz um player de música estilo Spotify com HTML,C
  ![  Captura de tela 2022-10-26 174545 ]().
   
 
- [link pra o projeto](file:///C:/Users/davir/OneDrive/%C3%81rea%20de%20Trabalho/Player-de-musica/Progeto-Player/index.html):
+ [link pra o projeto](https://github.com/DaviDias12/Player/blob/master/Progeto-Player/index.html):
 
 
